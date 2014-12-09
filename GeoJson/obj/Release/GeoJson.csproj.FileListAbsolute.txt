@@ -1,0 +1,10 @@
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\GeoJson.exe.config
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\admin1CodesASCII.txt
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\GeoJson.exe
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\GeoJson.pdb
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\NetFluid.dll
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\Newtonsoft.Json.dll
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\bin\Release\NetFluid.pdb
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\obj\Release\GeoJson.csprojResolveAssemblyReference.cache
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\obj\Release\GeoJson.exe
+D:\backup desktop\NetFluid\REPOSITORY\GeoJson\obj\Release\GeoJson.pdb
